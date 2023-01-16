@@ -14,7 +14,7 @@ class averageResult extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.center,
       children: [
         Text(
-          'Avarage',
+          'GPA  ',
           style: GoogleFonts.robotoCondensed(fontSize: 30.0, fontWeight: FontWeight.w800, color: Color.fromARGB(172, 244, 65, 55)),
         ),
         Text(

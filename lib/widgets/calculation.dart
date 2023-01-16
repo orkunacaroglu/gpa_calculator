@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:grade_average_calculator/data/grades_data.dart';
-import 'package:grade_average_calculator/widgets/avarage_result.dart';
+import 'package:grade_average_calculator/widgets/average_result.dart';
 import 'package:grade_average_calculator/widgets/dropdown_credit.dart';
 import 'package:grade_average_calculator/widgets/dropdown_grade.dart';
 import 'package:grade_average_calculator/widgets/lesson_list_bottom.dart';
